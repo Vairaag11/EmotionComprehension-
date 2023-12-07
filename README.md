@@ -13,13 +13,3 @@ Android Studio: The project is developed and maintained using Android Studio.
 Java: The primary programming language used for development.
 Google ML Kit: Utilized for facial detection to analyze emotions.
 CameraX API: Employed to facilitate real-time face detection.
-Screenshots of Application
-
-
-Above is the transact page where the user will transfer money from the sub-savings account into their main account
-
-
-This is a representaion of the CameraX api that is functional and is used to detect facial features
-
-
-Once the system identifies that the user is smiling - the transaction is approved and verification is complete
